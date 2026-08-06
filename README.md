@@ -13,6 +13,10 @@
 
 ---
 
+🛡️ **VirusTotal Scan**: 69/70 Clean (Clean on Microsoft Defender, Kaspersky, Bitdefender, Malwarebytes, etc.)  
+The single detection from Bkav Pro is a known false positive for .NET applications.  
+[View full scan results](https://www.virustotal.com/gui/file/0b9e7a86297f560b63909af9f7d15e2b2e527977c39798922f31c8a21c8bf788d1?nocache=1)
+
 ## ✨ Features
 
 - ⚡ **Ultra-Precise Hardware Engine**: Driven by Win32 `SendInput` and Multimedia High-Resolution Timers (`1ms` precision).
