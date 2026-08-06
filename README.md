@@ -37,8 +37,9 @@
 5. Choose your target mouse button, CPS rate, or lock to a specific game window.
 
 ---
-<img width="479" height="206" alt="Screenshot 2026-08-07 071044" src="https://github.com/user-attachments/assets/19f7c1aa-d616-4040-8a61-46d87518e8d6" />
 <img width="476" height="613" alt="Screenshot 2026-08-07 071039" src="https://github.com/user-attachments/assets/00cbbfd0-be7e-4768-966c-306325b4a2cf" />
+<img width="479" height="206" alt="Screenshot 2026-08-07 071044" src="https://github.com/user-attachments/assets/19f7c1aa-d616-4040-8a61-46d87518e8d6" />
+
 
 ## 💬 Community & Support
 
